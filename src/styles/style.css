@@ -1,0 +1,6 @@
+@import '@undp/design-system-react/style.css';
+@import 'tailwindcss';
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@config '../../tailwind.config.js';
