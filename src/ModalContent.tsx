@@ -20,7 +20,9 @@ function ModalContent({
       <div className='w-full bg-green-100 md:w-1/3'>
         <img
           src={`/imgs/${content[index].img}`}
-          alt='Carrousel visual'
+          alt={content[index].id}
+          loading='lazy'
+          decoding='async'
           className='h-full w-full border-green-900 border-b-2 object-cover md:border-r-2 md:border-b-0'
         />
       </div>
