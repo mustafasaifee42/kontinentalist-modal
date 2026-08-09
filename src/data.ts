@@ -2,18 +2,18 @@ export const data = [
   {
     title: 'Public Transit Access',
     carousel_title: 'Public Transit Access',
-    bg: 'Bus Stop-pana.png',
+    bg: 'Bus Stop-pana.webp',
     content: [
       {
         id: '1-1-last-mile',
         action: 'Last-Mile Connectivity',
-        img: 'city bus-cuate.png',
+        img: 'city bus-cuate.webp',
         desc: 'Expand feeder bus and shuttle routes linking residential areas to major transit hubs, reducing the walking distance gap that discourages ridership.',
       },
       {
         id: '1-2-fare-integration',
         action: 'Fare Integration',
-        img: 'Bus Stop-pana.png',
+        img: 'Bus Stop-pana.webp',
         desc: 'Introduce a single fare card usable across buses, trains, and ferries, removing the friction of multiple ticketing systems for daily commuters.',
       },
     ],
@@ -21,24 +21,24 @@ export const data = [
   {
     title: 'Cycling Infrastructure',
     carousel_title: 'Cycling Infrastructure',
-    bg: 'Road cycling-rafiki.png',
+    bg: 'Road cycling-rafiki.webp',
     content: [
       {
         id: '2-1-protected-lanes',
         action: 'Protected Bike Lanes',
-        img: 'Couple bicycle-bro.png',
+        img: 'Couple bicycle-bro.webp',
         desc: 'Build physically separated cycling lanes along high-traffic corridors to improve safety and encourage more commuters to cycle to work.',
       },
       {
         id: '2-2-bike-share',
         action: 'Public Bike-Share Schemes',
-        img: 'bike parking-cuate.png',
+        img: 'bike parking-cuate.webp',
         desc: 'Deploy dockless or docked bike-share systems in dense urban centres, giving residents an affordable first- and last-mile option.',
       },
       {
         id: '2-3-secure-parking',
         action: 'Secure Bike Parking',
-        img: 'bike parking-bro.png',
+        img: 'bike parking-bro.webp',
         desc: 'Install covered, monitored bicycle parking at transit stations to reduce theft and make cycling a more reliable daily choice.',
       },
     ],
@@ -46,18 +46,18 @@ export const data = [
   {
     title: 'Pedestrian Safety',
     carousel_title: 'Pedestrian Safety',
-    bg: 'Pedestrian crossing-rafiki.png',
+    bg: 'Pedestrian crossing-rafiki.webp',
     content: [
       {
         id: '3-1-crossing-upgrades',
         action: 'Crossing Upgrades',
-        img: 'Pedestrian crossing-rafiki.png',
+        img: 'Pedestrian crossing-rafiki.webp',
         desc: 'Retrofit high-risk intersections with raised crosswalks, longer signal timings, and better lighting to reduce pedestrian accidents.',
       },
       {
         id: '3-2-sidewalk-continuity',
         action: 'Sidewalk Continuity',
-        img: 'Stand out-rafiki.png',
+        img: 'Stand out-rafiki.webp',
         desc: 'Close gaps in sidewalk networks near schools and markets, ensuring uninterrupted, accessible paths for pedestrians of all ages.',
       },
     ],
@@ -65,18 +65,18 @@ export const data = [
   {
     title: 'Green Vehicle Incentives',
     carousel_title: 'Green Vehicle Incentives',
-    bg: 'Electric car-pana.png',
+    bg: 'Electric car-pana.webp',
     content: [
       {
         id: '4-1-ev-subsidies',
         action: 'EV Purchase Subsidies',
-        img: 'Electric car-bro.png',
+        img: 'Electric car-bro.webp',
         desc: 'Offer tax rebates and reduced registration fees for electric vehicles to accelerate the shift away from combustion engines.',
       },
       {
         id: '4-2-charging-network',
         action: 'Charging Network Expansion',
-        img: 'Electric car-pana.png',
+        img: 'Electric car-pana.webp',
         desc: 'Fund public charging stations in residential neighbourhoods and along highways to address range anxiety among prospective EV owners.',
       },
     ],
@@ -84,18 +84,18 @@ export const data = [
   {
     title: 'Data and Monitoring',
     carousel_title: 'Data and Monitoring',
-    bg: 'Navigation-amico.png',
+    bg: 'Navigation-amico.webp',
     content: [
       {
         id: '5-1-traffic-sensors',
         action: 'Real-Time Traffic Sensors',
-        img: 'Navigation-amico.png',
+        img: 'Navigation-amico.webp',
         desc: 'Install IoT sensors at key junctions to monitor congestion patterns and feed data into adaptive traffic signal systems.',
       },
       {
         id: '5-2-open-data',
         action: 'Open Mobility Data',
-        img: 'Data extraction-pana.png',
+        img: 'Data extraction-pana.webp',
         desc: 'Publish anonymised transit and traffic data publicly, enabling researchers and developers to build tools that improve urban mobility.',
       },
     ],
@@ -103,18 +103,18 @@ export const data = [
   {
     title: 'Policy and Regulation',
     carousel_title: 'Policy and Regulation',
-    bg: 'Privacy policy-pana.png',
+    bg: 'Privacy policy-pana.webp',
     content: [
       {
         id: '6-1-congestion-pricing',
         action: 'Congestion Pricing',
-        img: 'Pricing plans-amico.png',
+        img: 'Pricing plans-amico.webp',
         desc: 'Introduce time-based road pricing in city centres to reduce private vehicle use during peak hours and fund public transit improvements.',
       },
       {
         id: '6-2-low-emission-zones',
         action: 'Low-Emission Zones',
-        img: 'Air pollution-rafiki.png',
+        img: 'Air pollution-rafiki.webp',
         desc: 'Restrict high-emission vehicles from entering designated zones, improving air quality in densely populated urban areas.',
       },
     ],
