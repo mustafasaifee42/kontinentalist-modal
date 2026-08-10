@@ -49,7 +49,3 @@ More info: [Biome Docs](https://biomejs.dev/guides/getting-started/)
 ## 🎨 Styling
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling and and includes pre-configured design tokens from the UNDP Design System.
-
-## 📬 Contact us
-
-For questions or feedback, contact us at [data@undp.org](mailto:data@undp.org).
