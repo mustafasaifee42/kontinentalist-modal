@@ -1,4 +1,4 @@
-This is a React + TypeScript + Vite project powered by Tailwind CSS, and the UNDP Design System, bootstrapped with [@undp/create-app](https://www.npmjs.com/package/@undp/create-app). 
+This is a React + TypeScript + Vite project powered by Tailwind CSS. 
 
 It includes:
 * React 19.x with React compiler
@@ -49,26 +49,6 @@ More info: [Biome Docs](https://biomejs.dev/guides/getting-started/)
 ## 🎨 Styling
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling and and includes pre-configured design tokens from the UNDP Design System.
-
-## 🌐 Embedding the Visualization
-
-To embed the visualization on an external page, include:
-
-**HTML Placeholder**
-
-```html
-<div id="root"></div>
-```
-
-**Required `<script>` and `<link>` tags**
-
-```
-<link rel="dns-prefetch" href="{{Visualization URL}}">
-<script defer="defer" type="module" src="{{Visualization URL}}/index.js"></script>
-<link rel="modulepreload" crossorigin href="{{Visualization URL}}/react-{{hash}}.js">
-<link rel="modulepreload" crossorigin href="{{Visualization URL}}/undp-{{hash}}.js">
-<link rel="stylesheet" href="{{Visualization URL}}/style.css"></link>
-```
 
 ## 📬 Contact us
 
