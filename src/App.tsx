@@ -11,7 +11,7 @@ function App() {
       <div className='mx-auto grid max-w-7xl grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3'>
         {data.map((item) => (
           <Dialog key={item.title}>
-            <DialogTrigger className='flex flex-col gap-2 bg-green-800 p-6 text-left'>
+            <DialogTrigger className='flex cursor-pointer flex-col gap-2 bg-green-800 p-6 text-left hover:shadow-xl'>
               <h3 className='font-left font-semibold text-2xl text-white'>{item.title}</h3>
               <img
                 src={`/imgs/${item.bg}`}
